@@ -1,0 +1,2 @@
+PATH=/depot_tools/:/usr/local/share/npm/bin:/usr/local/narwhal/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/texbin:/usr/X11/bin:/Users/carterallen/bin/
+NPM_PATH=/usr/local/lib/node
